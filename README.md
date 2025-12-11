@@ -62,7 +62,3 @@ Contribuições são bem-vindas! Se você encontrar bugs, tiver drivers adiciona
 ## ✒️ Criador
 
 **Robert Danilo** - Aluno de ADS e Desenvolvedor.
-
----
-
-**Licença:** (Adicione aqui o tipo de licença que você deseja usar, ex: MIT License)
